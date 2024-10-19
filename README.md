@@ -1,4 +1,4 @@
-# Face-Recognition-System-Using-OpenCV-
+# Face-Recognition-System-Using-OpenCV
 This project demonstrates a real-time face recognition system built using Python's OpenCV library. The system captures video from your camera, detects faces, and matches them with pre-encoded face images stored in a local directory. Recognized faces are highlighted with a bounding box and labeled with their names.
 his project is a simple Face Recognition system built using Python and OpenCV. It captures live video from your camera, detects faces, and matches them with known face encodings from a pre-defined directory of images.
 

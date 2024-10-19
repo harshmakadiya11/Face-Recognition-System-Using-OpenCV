@@ -19,7 +19,7 @@ pip install opencv-python pandas
 
 Installation
 Clone the repository:
-git clone https://github.com/harshmakadiya11/Face-Recognition-System-Using-OpenCV-.git
+git clone https://github.com/harshmakadiya11/Face-Recognition-System-Using-OpenCV.git
 
 Install the necessary dependencies:
 pip install -r requirements.txt
